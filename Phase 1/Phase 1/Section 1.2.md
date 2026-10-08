@@ -12,13 +12,21 @@ Vocabulary Breakdown
 
 Value  
 To me, value is how I control light and darkness to set the mood and guide the viewer’s eye. It’s basically the image's emotional temperature.
+
+
 Space  
 Space is how I make a flat image feel deep. I use overlapping shapes, size changes, and softer background details to create that sense of distance.
 
+
 Unity  
+
 Unity is the feeling that everything in the artwork belongs together. I create it by repeating colours, textures, or shapes so the whole piece feels connected.
+
+
 Balance  
 Balance is how I distribute visual weight. It’s what makes the composition feel stable or intentionally heavy on one side, depending on the mood I want.
+
+
 Rhythm  
 Rhythm is the artwork's flow. It’s created by repeating lines or shapes, so the viewer’s eye moves through the image instead of stopping in one spot.
 
